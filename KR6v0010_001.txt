@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:06.980826
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛說孝順子修行成佛經
 #+PROPERTY: CBETA_ID W01n0009
 #+PROPERTY: ID KR6v0010
@@ -11,7 +11,7 @@
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 題解¶
 整理者　方廣錩¶
 ¶
 
@@ -40,7 +40,7 @@
 無校本。
 <pb:KR6v0010_W_001-0330a>¶
 
-錄文¶
+* 錄文¶
 ¶
 
  佛說孝順子修行成佛經¶
