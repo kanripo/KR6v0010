@@ -1,17 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-31 05:58:06.980826
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 15:06
 #+TITLE: 佛說孝順子修行成佛經
 #+PROPERTY: CBETA_ID W01n0009
 #+PROPERTY: ID KR6v0010
 #+PROPERTY: SOURCE Buddhist Texts not contained in the Tripitaka Vol. 01, No. 009
 #+PROPERTY: VOL 01
 #+PROPERTY: BASEEDITION W
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6v0010_W_001-0329a> 
 #+PROPERTY: JUAN 1
 ¶
 
-題解¶
+* 佛說孝順子修行成佛經¶
 整理者　方廣錩¶
 ¶
 
@@ -40,10 +40,9 @@
 無校本。
 <pb:KR6v0010_W_001-0330a>¶
 
-錄文¶
+* 〔錄文〕¶
 ¶
-
- 佛說孝順子修行成佛經¶
+佛說孝順子修行成佛經¶
 ¶
 
 （前殘）¶
